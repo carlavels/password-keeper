@@ -1,0 +1,12 @@
+# DB folder ignores
+db/*.jar
+db/sqlite3files/
+db/*.db
+
+# Main folder ignores
+*.class
+*.jar
+*.bat
+
+# RSC folder ignores
+
