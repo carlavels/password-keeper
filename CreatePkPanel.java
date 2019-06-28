@@ -82,7 +82,7 @@ public class CreatePkPanel extends JPanel
 
 		// instantiate save button
 		save_button = new JButton("Create");
-		createSaveButton(); method for action of save button
+		createSaveButton(); //method for action of save button
 
 		// this method will set the layout of our panel and components
 		setTheLayout();
