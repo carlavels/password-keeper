@@ -2,7 +2,6 @@
 db/*.jar
 db/sqlite3files/
 db/*.db
-!db/passKeep.db
 
 # Main folder ignores
 *.class
